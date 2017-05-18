@@ -1,7 +1,6 @@
 package com.jzli.spring.cloud.client.controller;
 
 import com.jzli.spring.cloud.client.bean.User;
-import org.codehaus.jettison.json.JSONObject;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
